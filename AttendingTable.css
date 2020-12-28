@@ -1,0 +1,15 @@
+table, th {
+    background-color: lightpink;
+    margin: 10px;
+    border: 1px solid black;
+  }
+  th, td {
+    padding: 5px;
+    background-color: aqua;
+    border: 1px solid black;
+    width: 50%;
+  }
+  table, th, td {
+    border-collapse: collapse;
+    text-align: center;
+  }

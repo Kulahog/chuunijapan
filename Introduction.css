@@ -1,0 +1,61 @@
+body {background-color: cadetblue;}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+.ToC {
+  text-align: center;
+  font-size: 25px;
+}
+#ToC {
+  background-color: cornflowerblue;
+  text-align: center;
+}
+.Introduction {
+  background-color: aquamarine;
+  padding: 7px;
+  border: 1px solid cadetblue;
+  width: 150px;
+  height: 47px;
+  font-size: 16px;
+}
+.Locations {
+  background-color: aquamarine;
+  padding: 7px;
+  border: 1px solid cadetblue;
+  width: 150px;
+  height: 47px;
+  font-size: 16px;
+}
+.Transportation {
+  background-color: aquamarine;
+  padding: 7px;
+  border: 1px solid cadetblue;
+  width: 150px;
+  height: 47px;
+  font-size: 16px;
+}
+.Hotels {
+  background-color: aquamarine;
+  padding: 7px;
+  border: 1px solid cadetblue;
+  width: 150px;
+  height: 47px;
+  font-size: 16px;
+}
+.Food {
+  background-color: aquamarine;
+  padding: 7px;
+  border: 1px solid cadetblue;
+  width: 150px;
+  height: 47px;
+  font-size: 16px;
+}
+.Conclusion {
+  background-color: aquamarine;
+  padding: 7px;
+  border: 1px solid cadetblue;
+  width: 150px;
+  height: 47px;
+  font-size: 16px;
+}
